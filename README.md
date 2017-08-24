@@ -9,6 +9,8 @@ This repository shows one way you can successfully setup Salesforce DX with Trav
 - You've installed the [Travis CLI](https://github.com/travis-ci/travis.rb#installation). 
 - You have properly setup JWT-Based Authorization Flow (i.e. headless). I recommend using [these steps for generating your Self-Signed SSL Certificate](https://devcenter.heroku.com/articles/ssl-certificate-self). 
 
+
+
 If any any of these assumptions aren't true, the following steps won't work.
 
 ## Getting Started
@@ -51,3 +53,4 @@ If you find any issues or opportunities for improving this respository, fix them
 ## Reporting Issues ###
 
 If you find any issues with this demo that you can't fix, feel free to report them in the [issues](https://github.com/forcedotcom/sfdx-travisci/issues) section of this repository.
+
